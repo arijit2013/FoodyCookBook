@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.4.1)
+  - JTMaterialSpinner (3.0.5)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - JTMaterialSpinner (~> 3.0)
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JTMaterialSpinner
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  JTMaterialSpinner: 28a0444186b6b2df4206a77d12f7c9dcbe604958
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: cbc24c2d5527e2291fcb7829f15da4c3c98d6470
+
+COCOAPODS: 1.10.1
